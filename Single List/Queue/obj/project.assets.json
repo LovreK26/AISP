@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lovre\\source\\repos\\Single List\\Queue\\Queue.csproj",
+      "projectUniqueName": "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Queue\\Queue.csproj",
       "projectName": "Queue",
-      "projectPath": "C:\\Users\\Lovre\\source\\repos\\Single List\\Queue\\Queue.csproj",
+      "projectPath": "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Queue\\Queue.csproj",
       "packagesPath": "C:\\Users\\Lovre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lovre\\source\\repos\\Single List\\Queue\\obj\\",
+      "outputPath": "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lovre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Lovre\\source\\repos\\Single List\\Single List\\Single List.csproj": {
-              "projectPath": "C:\\Users\\Lovre\\source\\repos\\Single List\\Single List\\Single List.csproj"
+            "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Single List\\Single List.csproj": {
+              "projectPath": "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Single List\\Single List.csproj"
             }
           }
         }

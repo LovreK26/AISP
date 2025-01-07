@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\bin\Debug\net8.0\Generic Methods.exe
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\bin\Debug\net8.0\Generic Methods.deps.json
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\bin\Debug\net8.0\Generic Methods.runtimeconfig.json
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\bin\Debug\net8.0\Generic Methods.dll
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\bin\Debug\net8.0\Generic Methods.pdb
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\Generic Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\Generic Methods.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\Generic Methods.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\Generic Methods.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\Generic Methods.dll
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\refint\Generic Methods.dll
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\Generic Methods.pdb
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\Generic Methods.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Introduction\Generic Methods\obj\Debug\net8.0\ref\Generic Methods.dll

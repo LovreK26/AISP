@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lovre\\source\\repos\\Single List\\Double List\\Double List.csproj",
+      "projectUniqueName": "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Double List\\Double List.csproj",
       "projectName": "Double List",
-      "projectPath": "C:\\Users\\Lovre\\source\\repos\\Single List\\Double List\\Double List.csproj",
+      "projectPath": "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Double List\\Double List.csproj",
       "packagesPath": "C:\\Users\\Lovre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lovre\\source\\repos\\Single List\\Double List\\obj\\",
+      "outputPath": "C:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Double List\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lovre\\AppData\\Roaming\\NuGet\\NuGet.Config",

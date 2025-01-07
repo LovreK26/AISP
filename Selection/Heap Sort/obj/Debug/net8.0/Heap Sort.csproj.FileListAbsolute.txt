@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Selection\Heap Sort\bin\Debug\net8.0\Heap Sort.exe
+C:\Users\Lovre\source\repos\Selection\Heap Sort\bin\Debug\net8.0\Heap Sort.deps.json
+C:\Users\Lovre\source\repos\Selection\Heap Sort\bin\Debug\net8.0\Heap Sort.runtimeconfig.json
+C:\Users\Lovre\source\repos\Selection\Heap Sort\bin\Debug\net8.0\Heap Sort.dll
+C:\Users\Lovre\source\repos\Selection\Heap Sort\bin\Debug\net8.0\Heap Sort.pdb
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\Heap Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\Heap Sort.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\Heap Sort.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\Heap Sort.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\Heap Sort.dll
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\refint\Heap Sort.dll
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\Heap Sort.pdb
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\Heap Sort.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Selection\Heap Sort\obj\Debug\net8.0\ref\Heap Sort.dll

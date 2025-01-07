@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Introduction\Constraints\bin\Debug\net8.0\Constraints.exe
+C:\Users\Lovre\source\repos\Introduction\Constraints\bin\Debug\net8.0\Constraints.deps.json
+C:\Users\Lovre\source\repos\Introduction\Constraints\bin\Debug\net8.0\Constraints.runtimeconfig.json
+C:\Users\Lovre\source\repos\Introduction\Constraints\bin\Debug\net8.0\Constraints.dll
+C:\Users\Lovre\source\repos\Introduction\Constraints\bin\Debug\net8.0\Constraints.pdb
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\Constraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\Constraints.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\Constraints.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\Constraints.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\Constraints.dll
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\refint\Constraints.dll
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\Constraints.pdb
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\Constraints.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Introduction\Constraints\obj\Debug\net8.0\ref\Constraints.dll

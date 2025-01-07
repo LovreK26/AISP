@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Recursions\Recursions\bin\Debug\net8.0\Recursions.exe
+C:\Users\Lovre\source\repos\Recursions\Recursions\bin\Debug\net8.0\Recursions.deps.json
+C:\Users\Lovre\source\repos\Recursions\Recursions\bin\Debug\net8.0\Recursions.runtimeconfig.json
+C:\Users\Lovre\source\repos\Recursions\Recursions\bin\Debug\net8.0\Recursions.dll
+C:\Users\Lovre\source\repos\Recursions\Recursions\bin\Debug\net8.0\Recursions.pdb
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\Recursions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\Recursions.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\Recursions.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\Recursions.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\Recursions.dll
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\refint\Recursions.dll
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\Recursions.pdb
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\Recursions.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Recursions\Recursions\obj\Debug\net8.0\ref\Recursions.dll

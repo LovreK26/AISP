@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lovre\\source\\repos\\Single List\\Single List\\Single List.csproj": {}
+    "c:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Single List\\Single List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lovre\\source\\repos\\Single List\\Single List\\Single List.csproj": {
+    "c:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Single List\\Single List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lovre\\source\\repos\\Single List\\Single List\\Single List.csproj",
+        "projectUniqueName": "c:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Single List\\Single List.csproj",
         "projectName": "Single List",
-        "projectPath": "C:\\Users\\Lovre\\source\\repos\\Single List\\Single List\\Single List.csproj",
+        "projectPath": "c:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Single List\\Single List.csproj",
         "packagesPath": "C:\\Users\\Lovre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lovre\\source\\repos\\Single List\\Single List\\obj\\",
+        "outputPath": "c:\\Users\\Lovre\\Documents\\GitHub\\AISP\\Single List\\Single List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lovre\\AppData\\Roaming\\NuGet\\NuGet.Config",

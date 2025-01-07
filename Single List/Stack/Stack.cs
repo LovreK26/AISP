@@ -1,6 +1,5 @@
 ﻿using SingleList;
 
-using SingleList;
 using System;
 using System.Collections.Generic;
 public class Stack

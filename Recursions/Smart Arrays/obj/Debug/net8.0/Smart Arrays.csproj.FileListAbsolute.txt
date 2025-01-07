@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\bin\Debug\net8.0\Smart Arrays.exe
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\bin\Debug\net8.0\Smart Arrays.deps.json
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\bin\Debug\net8.0\Smart Arrays.runtimeconfig.json
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\bin\Debug\net8.0\Smart Arrays.dll
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\bin\Debug\net8.0\Smart Arrays.pdb
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\Smart Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\Smart Arrays.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\Smart Arrays.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\Smart Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\Smart Arrays.dll
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\refint\Smart Arrays.dll
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\Smart Arrays.pdb
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\Smart Arrays.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Recursions\Smart Arrays\obj\Debug\net8.0\ref\Smart Arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Selection\Priority Queue\bin\Debug\net8.0\Priority Queue.exe
+C:\Users\Lovre\source\repos\Selection\Priority Queue\bin\Debug\net8.0\Priority Queue.deps.json
+C:\Users\Lovre\source\repos\Selection\Priority Queue\bin\Debug\net8.0\Priority Queue.runtimeconfig.json
+C:\Users\Lovre\source\repos\Selection\Priority Queue\bin\Debug\net8.0\Priority Queue.dll
+C:\Users\Lovre\source\repos\Selection\Priority Queue\bin\Debug\net8.0\Priority Queue.pdb
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\Priority Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\Priority Queue.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\Priority Queue.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\Priority Queue.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\Priority Queue.dll
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\refint\Priority Queue.dll
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\Priority Queue.pdb
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\Priority Queue.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Selection\Priority Queue\obj\Debug\net8.0\ref\Priority Queue.dll

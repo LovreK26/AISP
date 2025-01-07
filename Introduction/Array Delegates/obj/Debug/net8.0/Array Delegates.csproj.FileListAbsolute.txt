@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\bin\Debug\net8.0\Array Delegates.exe
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\bin\Debug\net8.0\Array Delegates.deps.json
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\bin\Debug\net8.0\Array Delegates.runtimeconfig.json
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\bin\Debug\net8.0\Array Delegates.dll
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\bin\Debug\net8.0\Array Delegates.pdb
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\Array Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\Array Delegates.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\Array Delegates.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\Array Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\Array Delegates.dll
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\refint\Array Delegates.dll
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\Array Delegates.pdb
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\Array Delegates.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Introduction\Array Delegates\obj\Debug\net8.0\ref\Array Delegates.dll

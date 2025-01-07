@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lovre\\source\\repos\\Recursions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E878FB-075F-4993-A6A1-4E51592D14AB}|Smart Arrays\\Smart Arrays.csproj|c:\\users\\lovre\\source\\repos\\recursions\\smart arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E878FB-075F-4993-A6A1-4E51592D14AB}|Smart Arrays\\Smart Arrays.csproj|solutionrelative:smart arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E878FB-075F-4993-A6A1-4E51592D14AB}|Smart Arrays\\Smart Arrays.csproj|c:\\users\\lovre\\source\\repos\\recursions\\smart arrays\\smartarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E878FB-075F-4993-A6A1-4E51592D14AB}|Smart Arrays\\Smart Arrays.csproj|solutionrelative:smart arrays\\smartarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DBB9B9-1A61-4BC0-BD83-1221387B9B84}|Searching\\Searching.csproj|c:\\users\\lovre\\source\\repos\\recursions\\searching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DBB9B9-1A61-4BC0-BD83-1221387B9B84}|Searching\\Searching.csproj|solutionrelative:searching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7DFBF0-D40C-4B9D-9FCE-60D37AEA9A38}|Recursions\\Recursions.csproj|c:\\users\\lovre\\source\\repos\\recursions\\recursions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7DFBF0-D40C-4B9D-9FCE-60D37AEA9A38}|Recursions\\Recursions.csproj|solutionrelative:recursions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartArray.cs",
+              "DocumentMoniker": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Smart Arrays\\SmartArray.cs",
+              "RelativeDocumentMoniker": "Smart Arrays\\SmartArray.cs",
+              "ToolTip": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Smart Arrays\\SmartArray.cs",
+              "RelativeToolTip": "Smart Arrays\\SmartArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:14:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Smart Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Smart Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Smart Arrays\\Program.cs",
+              "RelativeToolTip": "Smart Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:10:14.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Searching\\Program.cs",
+              "RelativeDocumentMoniker": "Searching\\Program.cs",
+              "ToolTip": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Searching\\Program.cs",
+              "RelativeToolTip": "Searching\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:20:13.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Recursions\\Program.cs",
+              "RelativeDocumentMoniker": "Recursions\\Program.cs",
+              "ToolTip": "C:\\Users\\Lovre\\source\\repos\\Recursions\\Recursions\\Program.cs",
+              "RelativeToolTip": "Recursions\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwDsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:52:50.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

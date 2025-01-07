@@ -1,0 +1,14 @@
+C:\Users\Lovre\source\repos\Parameters\Comparables\bin\Debug\net8.0\Comparables.exe
+C:\Users\Lovre\source\repos\Parameters\Comparables\bin\Debug\net8.0\Comparables.deps.json
+C:\Users\Lovre\source\repos\Parameters\Comparables\bin\Debug\net8.0\Comparables.runtimeconfig.json
+C:\Users\Lovre\source\repos\Parameters\Comparables\bin\Debug\net8.0\Comparables.dll
+C:\Users\Lovre\source\repos\Parameters\Comparables\bin\Debug\net8.0\Comparables.pdb
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\Comparables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\Comparables.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\Comparables.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\Comparables.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\Comparables.dll
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\refint\Comparables.dll
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\Comparables.pdb
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\Comparables.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Parameters\Comparables\obj\Debug\net8.0\ref\Comparables.dll

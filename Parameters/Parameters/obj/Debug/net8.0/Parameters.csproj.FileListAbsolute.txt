@@ -1,0 +1,6 @@
+C:\Users\Lovre\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.dll
+C:\Users\Lovre\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.pdb
