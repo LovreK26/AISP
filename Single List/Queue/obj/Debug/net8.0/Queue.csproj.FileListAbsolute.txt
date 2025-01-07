@@ -1,0 +1,21 @@
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Single List.deps.json
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Single List.runtimeconfig.json
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Single List.exe
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Queue.exe
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Queue.deps.json
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Queue.dll
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Queue.pdb
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Single List.dll
+C:\Users\Lovre\source\repos\Single List\Queue\bin\Debug\net8.0\Single List.pdb
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.csproj.AssemblyReference.cache
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.csproj.Up2Date
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.dll
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\refint\Queue.dll
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.pdb
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+C:\Users\Lovre\source\repos\Single List\Queue\obj\Debug\net8.0\ref\Queue.dll
